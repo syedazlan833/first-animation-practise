@@ -1,0 +1,23 @@
+.img{
+    width: 95%;
+    height: 900px;
+    margin-top: 12px;
+    margin-left: 45px;
+    background-repeat:no-repeat ;
+    background-attachment:fixed ;
+    position: fixed;
+}
+.gifone{
+    width: 152px;
+}
+.cat{
+    width: 22%;
+    position: absolute;
+    top: 150px;
+}
+.rat{
+    width: 13%;
+    position: absolute;
+    top: 220px;
+    left: 1150px;
+}
